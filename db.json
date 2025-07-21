@@ -58,7 +58,7 @@
   "categoryFilters": [
     {
       "name": "Mind",
-      "isActive": false,
+      "isActive": true,
       "color": "",
       "id": "1"
     },
@@ -71,7 +71,7 @@
     {
       "id": "dfc6",
       "name": "Munka",
-      "isActive": true,
+      "isActive": false,
       "color": "red"
     }
   ]
